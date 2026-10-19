@@ -1,0 +1,39 @@
+# Build artifacts
+.build/
+*.app
+*.dSYM
+releases/
+*.dmg
+
+# Generated resources
+Resources/AppIcon.iconset/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.swiftpm/
+Packages/
+Package.resolved
+
+# IDE and local tooling
+.vscode/
+.idea/
+.opencode/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Internal development notes
+TODO.md
+TOBETESTED.md

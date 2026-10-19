@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>HuaweiAudioControlMac</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.eren.HuaweiAudioControlMac</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Huawei Audio Control</string>
+	<key>CFBundleDisplayName</key>
+	<string>Huawei Audio Control</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Huawei Audio Control talks to your Huawei/HONOR audio device over its Bluetooth serial control channel to read battery, adjust noise cancelling, and change gestures.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 The HuaweiAudioControlMac contributors. GPL-3.0. Includes work from the OpenFreebuds contributors. Unofficial; not affiliated with Huawei or HONOR.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

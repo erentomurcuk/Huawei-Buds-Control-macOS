@@ -1,0 +1,19 @@
+Third-party notice
+==================
+
+Huawei Audio Control for Mac
+Copyright (C) 2026 The HuaweiAudioControlMac contributors.
+
+Huawei Audio Control for Mac contains protocol data, command definitions and
+device-handling algorithms derived from OpenFreebuds:
+
+    https://github.com/melianmiko/OpenFreebuds
+
+OpenFreebuds is licensed under the GNU General Public License, version 3.
+Copyright (C) the OpenFreebuds contributors.
+
+Because this project incorporates that work, Huawei Audio Control for Mac is
+distributed under the GNU General Public License, version 3 as well. The full
+license text is in LICENSE. Corresponding source code is available from the
+project source tree and from the distribution page where this build was
+published.
